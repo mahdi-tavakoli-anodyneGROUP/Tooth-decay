@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+torch
+opencv-python
+numpy
+Pillow
+ultralytics
+python-multipart
+fpdf

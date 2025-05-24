@@ -1,0 +1,39 @@
+ICDAS_RECOMMENDATIONS = {
+    "SOUND_OR_SEALED": [
+        "Observation: Your tooth surface appears healthy, or it has a protective sealant. No signs of active decay are visible based on this analysis.",
+        "Recommendation: Excellent work on maintaining your oral health! Continue your routine of brushing thoroughly twice a day with fluoride toothpaste and flossing daily to remove plaque from between teeth and under the gumline.",
+        "Preventive Care: Maintain regular dental check-ups, typically every 6 to 12 months as advised by your dentist. These visits are crucial for professional cleanings, which remove hardened plaque (tartar) that regular brushing cannot, and for early detection of any potential issues before they become significant problems. If a sealant is present, your dentist will also check its integrity.",
+        "Dietary Advice: Continue to limit sugary snacks, candies, and acidic drinks (like sodas and some fruit juices). A balanced diet contributes significantly to strong teeth and overall oral wellness.",
+        "Further Action: No immediate dental intervention seems necessary based on this finding. Feel free to discuss any specific concerns or questions with your dentist at your next appointment."
+    ],
+    "INITIAL_CARIES_ENAMEL": [
+        "Observation: The analysis indicates early signs of demineralization (the first stage of tooth decay) or an initial carious lesion confined to the enamel (the hard, outer layer of the tooth). This may appear as a 'white spot' or slight surface change, and typically no cavity (hole) is visible at this stage.",
+        "Recommendation: This early stage is often reversible or can be stopped (arrested) with consistent and enhanced care. It's crucial to act now to prevent progression.",
+        "Home Care: Enhance your brushing technique, ensuring you gently but thoroughly clean the affected area. Use a fluoride-rich toothpaste or gel, as fluoride helps to remineralize and strengthen enamel. Floss carefully around the area daily to remove plaque.",
+        "Professional Care: Consult your dentist promptly. They may recommend professional topical fluoride treatments (like a varnish or gel), prescribe a high-fluoride toothpaste or mouth rinse, or discuss minimally invasive options such as dental sealants (especially for pits and fissures) or resin infiltration. Resin infiltration is a technique that can fill and reinforce the demineralized enamel without drilling.",
+        "Monitoring: This area requires careful monitoring by your dentist during routine visits to ensure the lesion is not progressing or to confirm that it is remineralizing.",
+        "Dietary Considerations: Reduce frequency of consuming sugary and acidic foods/drinks, as these contribute to demineralization. Drinking water after meals can help neutralize acids."
+    ],
+    "MODERATE_CARIES_DENTINE": [
+        "Observation: The carious lesion has progressed beyond the enamel and into the dentin layer (the softer layer beneath the enamel). You might notice slight discoloration, a rough surface, or increased sensitivity in the area.",
+        "Recommendation: Timely restorative treatment is generally needed to stop further decay and prevent more extensive damage or pain. A dental filling is usually the recommended treatment to restore the tooth's structure and function.",
+        "Professional Care: Your dentist will typically remove the decayed portion of the tooth and restore it with a filling material. Modern tooth-colored composite resins are often used, which bond to the tooth and provide a natural appearance. Other materials may also be discussed based on the tooth's location and biting forces.",
+        "Oral Hygiene: After treatment, it's important to maintain excellent oral hygiene. Brush gently but effectively around the restored tooth and floss daily to prevent new decay from forming at the margins of the filling.",
+        "Follow-up: Attend periodic check-ups as recommended by your dentist. They will monitor the restoration to ensure it remains intact and that the surrounding tooth structure stays healthy. Early detection of any issues with the filling can prevent bigger problems later.",
+        "Sensitivity Note: Some temporary sensitivity after a filling is normal, but if it persists or worsens, contact your dentist."
+    ],
+    "EXTENSIVE_CARIES_DENTINE": [
+        "Observation: A deep, extensive carious lesion is present, indicating that decay has significantly penetrated the dentin and may be close to, or involving, the tooth's pulp (the central part containing nerves and blood vessels). This can often lead to noticeable pain or a visible cavity.",
+        "Recommendation: Prompt and often comprehensive dental treatment is essential to save the tooth, alleviate pain, prevent infection from spreading, and restore function.",
+        "Professional Care: Consult your dentist immediately. Treatment will involve removing all decayed tissue. Depending on the extent of decay and pulp involvement, this may require a large filling, an inlay or onlay (custom-made restorations), or a dental crown to properly restore the tooth's form, function, and strength. If the pulp is infected or irreversibly inflamed, root canal therapy (endodontic treatment) will be necessary to remove the infected pulp, clean the root canals, and seal them, prior to placing a final restoration like a crown.",
+        "Pain Management: If you are experiencing pain, your dentist can advise on appropriate pain relief. Avoid chewing on the affected tooth and avoid very hot, cold, or sweet foods that might trigger sensitivity until the tooth is treated.",
+        "Preventive Strategy: It is crucial to understand the factors that led to such extensive decay. Work closely with your dentist to develop a personalized prevention plan. This may include detailed dietary counseling (e.g., identifying hidden sugars, frequency of intake), optimizing your home care routine, prescription fluoride products, and potentially more frequent dental visits for monitoring and preventive treatments.",
+        "Long-Term Outlook: With appropriate treatment, even extensively decayed teeth can often be saved and function for many more years. However, prevention is key to avoiding similar issues in other teeth."
+    ],
+    "NO_RELEVANT_FINDINGS": [
+        "Observation: Based on the automated analysis of the provided image areas, no specific carious lesions matching the defined categories (Initial, Moderate, Extensive) were identified by the model at this time.",
+        "Recommendation: This is positive news from the automated analysis! Continue with your excellent regular oral hygiene practices: brush thoroughly twice a day with fluoride toothpaste and floss once daily. These habits are fundamental to preventing tooth decay and gum disease.",
+        "Preventive Care: Don't forget to maintain your routine dental check-ups as advised by your dental professional. Regular professional cleanings and examinations are vital for identifying any early signs of dental issues that may not be visible to the naked eye or detectable by this automated system, as well as for overall oral health maintenance.",
+        "Important Note: This automated analysis is a supportive tool and is not a substitute for a comprehensive clinical examination, diagnosis, or treatment plan provided by a qualified dental professional. There might be other dental conditions, issues in areas not analyzed, or early changes beyond the model's current detection capabilities. Always rely on your dentist's expertise for definitive diagnosis and personalized advice regarding your dental care."
+    ]
+}
